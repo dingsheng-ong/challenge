@@ -1,4 +1,3 @@
 __pycache__*
-data.dat
-survey.csv
 secret_key.dat
+*_tmp.py
