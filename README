@@ -1,0 +1,13 @@
+# Fractal plotting for a paper about fractals and economics
+
+To run this analysis, you'll need Numpy and Matplotlib.
+
+Run `calc_fractal.py` to generate the data, then run `fig1.py`.
+
+Then change `calc_fractal.py` to be order 5 and 6 polynomials and
+repeat for figures 2 and 3.
+
+Finally, run `fig4.py` to get the bar plot for figure 4.
+
+Replace `secret_key.dat` with your own secret key to be able to run
+on your cloud account.
