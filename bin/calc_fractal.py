@@ -37,4 +37,4 @@ z_max = 1 + 1J
 initial_z = complex_linspace(z_min, z_max, 1000, 1000)
 
 results = angle(newton(polynomial, derivative, initial_z, 20))
-savetxt("data.dat", results)
+savetxt("data/data.dat", results)
